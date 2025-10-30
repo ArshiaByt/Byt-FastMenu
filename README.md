@@ -27,6 +27,7 @@
 
 ## 🧑‍💻 Developer
 **Developed by [ArshiaByt](https://github.com/ArshiaByt)**  
+
 📬 Contact me on Discord: `arshia_byt`
 
 For support or feedback, open an issue or pull request.
