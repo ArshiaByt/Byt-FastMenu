@@ -6,7 +6,7 @@
 
 ## 🧩 Features
 - Clean and modern NUI design  
-- Fully responsive using `vw` & `vh` units (works perfectly on 720p, 1080p, 1440p, and 4K)  
+- Fully responsive (works perfectly on 720p, 1080p, 1440p, and 4K)  
 - Customizable commands & triggers via `config.lua`  
 - Integrated hover/click sound effects  
 - Smooth animations and transitions  
