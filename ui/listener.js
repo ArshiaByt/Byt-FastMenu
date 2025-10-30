@@ -149,6 +149,6 @@ function removeListeners() {
 }
 
 function run(actionType, action) {
-    $.post(`://${GetParentResourceName()}/execute`, JSON.stringify({ actionType, action }));
+    $.post(`https://${GetParentResourceName()}/execute`, JSON.stringify({ actionType, action }));
     removeListeners();
 }
