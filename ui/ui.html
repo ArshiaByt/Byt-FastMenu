@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Byt FastMenu</title>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l"
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hung1001/font-awesome-pro@4cac1a6/css/all.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+
+</head>
+
+<body>
+    <div id="wrap">
+
+        <!-- Main Menu -->
+        <div id="menu">
+            <a><div id="shop">
+				<span id="shop-title">VIP Shop</span>
+			</div></a>
+
+			<div id="invite-friends" style="position: relative;">
+			<div id="announcement-header">
+				<span id="invite-friends-title">Last Announcement</span>
+				<img id="server-icon" src="" alt="Server Icon" />
+			</div>
+			<span id="invite-friends-desc">Loading latest updates...</span>
+			</div>
+
+
+            <div id="points-achievements">
+
+                <div id="achievements">
+                    <span id="achievements-title">Your Tasks</span><br /><br />
+                    <span id="achievements-reward">
+                        <span id="achievements-reward-icon"><i class="fas fa-gift"></i></span><br />
+                    </span>
+                    <br /><br /><br /><br /><br /><br />
+                    <a href="#" id="achievements-random-button">
+                        <i class="fas fa-random"></i> Cancel Task
+                    </a>
+                </div>
+            </div>
+
+            <a>
+                <div id="job-center">
+                    <span id="job-center-icon"><br /></span><br />
+                    <span id="job-center-title"></span>
+                    <center>
+                        <table style="width:100%;margin-top:20px;">
+                            <tr>
+                                <td style="width:25%;">
+                                    <span id="job-center-reward-icon"><center></center></span>
+                                </td>
+                                <td>
+                                    <span id="job-center-reward-prize"><center>Top Gangs</center></span>
+                                </td>
+                                <td>
+                                    <span id="job-center-reward-text"></span>
+                                </td>
+                            </tr>
+                        </table>
+                    </center>
+                </div>
+            </a>
+
+            <a>
+                <div id="case-system">
+                    <span id="case-system-icon"><i class="fa fa-gift"></i></span><br />
+                    <span id="my-case-title">Case System</span>
+                </div>
+            </a>
+
+            <a>
+                <div id="my-bills">
+                    <span id="my-bills-icon"><i class="fal fa-scroll"></i></span><br />
+                    <span id="my-bills-title">Bills</span>
+                </div>
+            </a>
+
+            <a>
+                <div id="my-family">
+                    <span id="my-family-title">Your Gang</span>
+                    <span id="my-family-icon"><i class="fas fa-cannabis"></i></span><br />
+                    <span id="my-family-staff-count">nogang</span>
+                    <span id="my-family-staff">0</span>
+                </div>
+            </a>
+
+            <a>
+                <div id="inventory">
+                    <div id="inventory-content">
+                        <center>
+                            <span id="inventory-icon"><i class="fas fa-hamburger"></i></span><br />
+                            <span id="inventory-title">INVENTORY</span><br />
+                            <span id="inventory-arrow"><i class="fas fa-chevron-down"></i></span>
+                        </center>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="./listener.js"></script>
+
+    <script>
+        window.addEventListener("message", (event) => {
+            if (event.data.action === "show") {
+                document.body.classList.add("visible");
+                setTimeout(() => {
+                    document.getElementById("wrap").classList.add("visible");
+                }, 80);
+            }
+        });
+    </script>
+</body>
+</html>
