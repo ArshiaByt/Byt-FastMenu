@@ -36,7 +36,7 @@ $(document).ready(() => {
 // Helper functions
 // -------------------
 function playSound(type, error) {
-    $.post(`https://Byt-FastMenu/playSound`, JSON.stringify({ action: type, error }));
+    $.post(`https://${GetParentResourceName()}/playSound`, JSON.stringify({ action: type, error }));
 }
 
 function hideUI() {
@@ -47,7 +47,7 @@ function hideUI() {
 function closeMenu() {
     hideUI();
     removeListeners();
-    $.post(`https://Byt-FastMenu/closeNUI`, JSON.stringify({}));
+    $.post(`https://${GetParentResourceName()}/closeNUI`, JSON.stringify({}));
 }
 
 // -------------------
@@ -149,6 +149,6 @@ function removeListeners() {
 }
 
 function run(actionType, action) {
-    $.post(`https://Byt-FastMenu/execute`, JSON.stringify({ actionType, action }));
+    $.post(`://${GetParentResourceName()}/execute`, JSON.stringify({ actionType, action }));
     removeListeners();
 }
