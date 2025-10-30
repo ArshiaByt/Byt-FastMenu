@@ -23,8 +23,10 @@
 
 3. Start your server and open the menu using the default key (F2).
 
-🧑‍💻 Developer
+4. Don’t forget to set up your resource commands or triggers inside config.lua to make the menu buttons work properly.
 
-Developed by ArshiaByt
+## 🧑‍💻 Developer
+**Developed by [ArshiaByt](https://github.com/ArshiaByt)**  
+📬 Contact me on Discord: `arshia_byt`
 
 For support or feedback, open an issue or pull request.
