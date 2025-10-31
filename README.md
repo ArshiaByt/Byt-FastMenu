@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Fivem FastMenu
+# 🚀 Fivem FastMenu | ESX Fast NUI Menu System
 
 ### ⚡ Advanced Fast Menu system for **FiveM ESX framework**  
 Clean NUI interface • Optimized for all resolutions (720p → 4K)  
