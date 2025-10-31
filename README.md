@@ -34,15 +34,26 @@ Clean NUI interface • Optimized for all resolutions (720p → 4K)
 git clone https://github.com/ArshiaByt/Fivem-FastMenu.git
 
 # 2. Add to your server.cfg
-ensure Byt-FastMenu
-✅ Start your server and open the menu with F2
-⚠️ Make sure to configure your triggers in config.lua for full functionality.
-🧑‍💻 Developer
+ensure Fivem-FastMenu
+```
 
-👤 Developed by ArshiaByt
+> ✅ Start your server and open the menu with **F2**  
+> ⚠️ Make sure to configure your triggers in `config.lua` for full functionality.
 
-📬 Discord: arshia_byt
+---
 
-For support or feedback, open an Issue or Pull Request.
+## 🧑‍💻 Developer
 
-<div align="center"> ⭐ If you like this project, consider giving it a **Star** on GitHub! Made with ❤️ by <a href="https://github.com/ArshiaByt">ArshiaByt</a> </div> ```
+**👤 Developed by [ArshiaByt](https://github.com/ArshiaByt)**  
+📬 Discord: `arshia_byt`
+
+For support or feedback, open an **Issue** or **Pull Request**.
+
+---
+
+<div align="center">
+
+⭐ If you like this project, consider giving it a **Star** on GitHub!  
+Made with ❤️ by <a href="https://github.com/ArshiaByt">ArshiaByt</a>
+
+</div>
