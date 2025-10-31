@@ -11,9 +11,8 @@ Clean NUI interface • Optimized for all resolutions (720p → 4K)
 
 <br>
 
-<video src="https://cdn.discordapp.com/attachments/1076090217238368286/1433766479739752510/2025-10-31_14-04-17.mp4?ex=6905e296&is=69049116&hm=1aaf848967eb4a42e4e512eb4d9c3bdd7adda7ebbb71e173fdb9457b9308e41c&" width="800" controls muted loop>
-Your browser does not support the video tag.
-</video>
+<img src="https://cdn.discordapp.com/attachments/1076090217238368286/1433770804621086750/2025-10-31_14-04-171-ezgif.com-video-to-gif-converter.gif?ex=6905e69d&is=6904951d&hm=2386d512e1bf30899d1777fb68aa52505692e8ff6902ed54e3a9a70f4b5e143e&" width="800" alt="FastMenu Demo"/>
+
 
 ---
 
