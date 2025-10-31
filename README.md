@@ -54,6 +54,6 @@ For support or feedback, open an **Issue** or **Pull Request**.
 <div align="center">
 
 ⭐ If you like this project, consider giving it a **Star** on GitHub!  
-Made with ❤️ by <a href="https://github.com/ArshiaByt">ArshiaByt</a>
+Made by <a href="https://github.com/ArshiaByt">ArshiaByt</a>
 
 </div>
