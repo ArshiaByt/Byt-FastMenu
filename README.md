@@ -9,7 +9,11 @@ Clean NUI interface • Optimized for all resolutions (720p → 4K)
 
 <img src="https://cdn.discordapp.com/attachments/1076090217238368286/1433766269638672444/BytFastMenu.png?ex=6905e264&is=690490e4&hm=45d71e15bf9b34530f0ce2c09e7d1b9f3d94a65836a01429b3c18464e413065b&" width="800" alt="FastMenu Preview"/>
 
-🎬 **[▶ Watch Demo Video](https://cdn.discordapp.com/attachments/1076090217238368286/1433766479739752510/2025-10-31_14-04-17.mp4?ex=6905e296&is=69049116&hm=1aaf848967eb4a42e4e512eb4d9c3bdd7adda7ebbb71e173fdb9457b9308e41c&)**  
+<br>
+
+<video src="https://cdn.discordapp.com/attachments/1076090217238368286/1433766479739752510/2025-10-31_14-04-17.mp4?ex=6905e296&is=69049116&hm=1aaf848967eb4a42e4e512eb4d9c3bdd7adda7ebbb71e173fdb9457b9308e41c&" width="800" controls muted loop>
+Your browser does not support the video tag.
+</video>
 
 ---
 
