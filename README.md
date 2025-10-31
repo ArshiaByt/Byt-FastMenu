@@ -12,7 +12,7 @@ Clean NUI interface • Optimized for all resolutions (720p → 4K)
 <br>
 
 
-[![🎬 Watch the short video](https://cdn.discordapp.com/attachments/1076090217238368286/1433766269638672444/BytFastMenu.png)](https://cdn.discordapp.com/attachments/1076090217238368286/1433766479739752510/2025-10-31_14-04-17.mp4)
+🎬 **[▶ Watch Short Video](https://cdn.discordapp.com/attachments/1076090217238368286/1433766479739752510/2025-10-31_14-04-17.mp4?ex=6905e296&is=69049116&hm=1aaf848967eb4a42e4e512eb4d9c3bdd7adda7ebbb71e173fdb9457b9308e41c&)**  
 
 
 ---
