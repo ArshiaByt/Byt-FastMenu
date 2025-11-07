@@ -7,7 +7,7 @@ Clean NUI interface • Optimized for all resolutions (720p → 4K)
 
 ---
 
-<img src="https://i.imgur.com/fJqJFfv.png" width="800" alt="FastMenu Preview"/>
+<img src="https://i.postimg.cc/WztLRR43/Byt-Fast-Menu.png" width="800" alt="FastMenu Preview"/>
 
 ---
 
