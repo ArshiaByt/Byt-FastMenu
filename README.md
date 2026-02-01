@@ -32,7 +32,7 @@ Clean NUI interface • Optimized for all resolutions (720p → 4K)
 git clone https://github.com/ArshiaByt/Fivem-FastMenu.git
 
 # 2. Add to your server.cfg
-ensure Fivem-FastMenu
+ensure Byt-FastMenu
 ```
 
 > ✅ Start your server and open the menu with **F2**  
